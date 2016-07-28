@@ -18,6 +18,8 @@ INSERT INTO injuries (id, name, description, tth, affected_area_id) VALUES (3, '
 INSERT INTO injuries (id, name, description, tth, affected_area_id) VALUES (4, 'Femur Fracture', 'Bone fracture.', 8, 3);
 INSERT INTO injuries (id, name, description, tth, affected_area_id) VALUES (5, 'Shattered Toenail', '20 percent of the US population suffers from onychorrhexis.', 3, 4);
 INSERT INTO injuries (id, name, description, tth, affected_area_id) VALUES (6, 'Nintendo Thumb', 'Painful affliction of opposable digits.', 1, 6);
+INSERT INTO injuries (id, name, description, tth, affected_area_id) VALUES (7, 'Amnesia', null, 1, 6);
+INSERT INTO injuries (id, name, description, tth, affected_area_id) VALUES (8, 'Pulled Muscle', 'Results from putting too much stress on any muscles.', 2, 1);
  
 CREATE TABLE causes
 (
