@@ -11,4 +11,4 @@ Students: YOU DO NOT NEED TO FORK THIS REPO.
 
 ### Mini-Project
 
-Visit [simple-sql-queries](https://github.com/kendagriff/simple-sql-queries)
+Visit [simple-sql-queries](https://github.com/devmountain/simple-sql-queries)
