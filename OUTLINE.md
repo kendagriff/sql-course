@@ -8,7 +8,9 @@ NOTES:
  
 * Student understands the purpose of databases
 * Student understands relational databases and tables
-* Student understands schema basics ()
+* Student understands schema basics
+* Student can create a table
+* Student can insert a row
 * Student can query with * or specific columns
 * Student can query results with a where clause
 * Student can use comparison operators (Greater, less than, equals, not equals)
@@ -29,8 +31,6 @@ NOTES:
 * Student can use sub-selects/nested queries
 * Student understands null values
 * Student can Group by
-* Student can create a table ; moved from Day 1
-* Student can insert a row   ; moved from Day 1
 * Student can update rows
 * Student can delete rows
 * Student can use distinct

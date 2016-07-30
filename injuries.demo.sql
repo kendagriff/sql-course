@@ -1,5 +1,33 @@
 -- DAY 1
 
+-- Create a new table
+
+CREATE TABLE injuries
+(
+  id INTEGER,
+  name VARCHAR(40),
+  description TEXT,
+  tth INTEGER,
+  affected_area_id INTEGER
+);
+
+-- What is a schema? https://raw.githubusercontent.com/kendagriff/sql-course/master/images/falcon.jpg
+
+-- Create data in our new table
+INSERT INTO injuries
+(id, name, description, tth, affected_area_id)
+VALUES (1, 'Pulled Groin', 'Results from putting too much stress on muscles in your groin and thigh.', 2, 1);
+
+-- Add the rest
+
+INSERT INTO injuries (id, name, description, tth, affected_area_id) VALUES (2, 'Cervical Radiculopathy', 'Pinched nerve.', 6, 2);
+INSERT INTO injuries (id, name, description, tth, affected_area_id) VALUES (3, 'Herniated Disc', 'Soft substance on the inside of the disc (nucleus pulposi) is pushed out', 12, 2);
+INSERT INTO injuries (id, name, description, tth, affected_area_id) VALUES (4, 'Femur Fracture', 'Bone fracture.', 8, 3);
+INSERT INTO injuries (id, name, description, tth, affected_area_id) VALUES (5, 'Shattered Toenail', '20 percent of the US population suffers from onychorrhexis.', 3, 4);
+INSERT INTO injuries (id, name, description, tth, affected_area_id) VALUES (6, 'Nintendo Thumb', 'Painful affliction of opposable digits.', 1, 6);
+INSERT INTO injuries (id, name, description, tth, affected_area_id) VALUES (7, 'Amnesia', null, 1, 6);
+INSERT INTO injuries (id, name, description, tth, affected_area_id) VALUES (8, 'Pulled Muscle', 'Results from putting too much stress on any muscles.', 2, 1);
+
 -- What does it mean to "query"?
 
 -- Inspect entire table, returning all its records and columns.
