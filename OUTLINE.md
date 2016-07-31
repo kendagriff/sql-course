@@ -19,13 +19,13 @@ NOTES:
 * Student can use max, min, avg, sum
 * Student can use count()
 * student can use limit
+* Student can use distinct
 * Student understands they’ll need to install postgres and an admin client
 
 
 ## Day 2
  
 * Student understand foreign keys
-* Student can add foreign key to new table
 * Student can add foreign key to existing table
 * Student can use join
 * Student can use sub-selects/nested queries
@@ -33,7 +33,6 @@ NOTES:
 * Student can Group by
 * Student can update rows
 * Student can delete rows
-* Student can use distinct
 
 ## Day 3
  
