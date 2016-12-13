@@ -23,3 +23,7 @@ Visit [simple-sql-queries](https://github.com/devmountain/simple-sql-queries)
 ### Mini-Project
 
 Visit [intermediate-sql-queries](https://github.com/kendagriff/intermediate-sql-queries)
+
+## Day 3
+
+[Insert instructions for installation here]
