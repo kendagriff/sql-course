@@ -192,5 +192,5 @@ FROM affected_areas;
 
 -- What was the difference?
 
--- Delete rows
+-- Delete rows (don't forget to use SELECT first)
 DELETE FROM injuries;
