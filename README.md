@@ -22,4 +22,4 @@ Visit [simple-sql-queries](https://github.com/devmountain/simple-sql-queries)
 
 ### Mini-Project
 
-Visit [intermediate-sql-queries](https://github.com/devmountain/intermediate-sql-queries)
+Visit [intermediate-sql-queries](https://github.com/kendagriff/intermediate-sql-queries)
