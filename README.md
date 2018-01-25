@@ -2,7 +2,7 @@
 
 Students: YOU DO NOT NEED TO FORK THIS REPO.
 
-## Day 1
+## Day 1 – Begin SQL
 
 ### Practice
 
@@ -13,7 +13,15 @@ Students: YOU DO NOT NEED TO FORK THIS REPO.
 
 Visit [simple-sql-queries](https://github.com/devmountain/simple-sql-queries)
 
-## Day 2
+## Day 2 – Begin Massive
+
+### Postgres Setup
+
+https://github.com/kendagriff/sql-setup
+
+https://github.com/kendagriff/massive-demo
+
+## Day 3
 
 ### Practice
 
